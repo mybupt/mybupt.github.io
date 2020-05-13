@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bupt.gq/"/>
-  <updated>2020-05-13T04:50:33.775Z</updated>
+  <updated>2020-05-13T03:06:46.000Z</updated>
   <id>http://bupt.gq/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>�ɰ���è���һ�»�޺ܾð�</title>
+    <link href="http://bupt.gq/firsttry.html"/>
+    <id>http://bupt.gq/firsttry.html</id>
+    <published>2020-05-13T03:06:46.000Z</published>
+    <updated>2020-05-13T03:06:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>������è��<br><img src="../images/zhua.jpg" alt=""></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;������è��&lt;br&gt;&lt;img src=&quot;../images/zhua.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+      
+    
+    </summary>
+    
+      <category term="����" scheme="http://bupt.gq/categories/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
+    
+    
+      <category term="����" scheme="http://bupt.gq/tags/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
+    
+      <category term="è��" scheme="http://bupt.gq/tags/e%EF%BF%BD%EF%BF%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>hello-world</title>
