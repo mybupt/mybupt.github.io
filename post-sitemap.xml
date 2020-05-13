@@ -8,16 +8,16 @@
     </url>
 
     <url>
-        <loc>http://bupt.gq/hello-world.html</loc>
-        <lastmod>2020-05-13T05:51:30.150Z</lastmod>
+        <loc>http://bupt.gq/firsttry.html</loc>
+        <lastmod>2020-05-13T03:06:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://bupt.gq/firsttry.html</loc>
-        <lastmod>2020-05-13T03:06:46.000Z</lastmod>
+        <loc>http://bupt.gq/hello-world.html</loc>
+        <lastmod>2020-05-12T05:23:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
