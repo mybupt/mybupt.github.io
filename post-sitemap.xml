@@ -8,24 +8,8 @@
     </url>
 
     <url>
-        <loc>http://bupt.gq/m2.html</loc>
-        <lastmod>2020-06-09T11:00:03.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://bupt.gq/liang2.html</loc>
-        <lastmod>2020-05-16T01:58:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://bupt.gq/firsttry.html</loc>
-        <lastmod>2020-05-13T03:06:46.000Z</lastmod>
+        <loc>http://bupt.gq/liang1.html</loc>
+        <lastmod>2021-04-26T01:58:24.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -33,15 +17,31 @@
 
     <url>
         <loc>http://bupt.gq/hello-world.html</loc>
-        <lastmod>2020-05-12T05:23:02.000Z</lastmod>
+        <lastmod>2021-04-25T05:23:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://bupt.gq/liang1.html</loc>
-        <lastmod>2020-04-26T01:58:24.000Z</lastmod>
+        <loc>http://bupt.gq/firsttry.html</loc>
+        <lastmod>2021-04-13T03:06:46.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://bupt.gq/liang2.html</loc>
+        <lastmod>2020-04-16T01:58:42.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://bupt.gq/m2.html</loc>
+        <lastmod>2020-04-09T11:00:03.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
